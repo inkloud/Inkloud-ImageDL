@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "-p \"C:\\temp\\xxxooo\" -c \"14,27\" -u \"username\" -k \"password\"",
+      "nativeDebugging": true
+    }
+  }
+}
