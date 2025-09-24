@@ -83,9 +83,9 @@ namespace ConsoleApp1
                 {
                     Console.WriteLine("Line:");
                     var fields = parser.ReadFields();
-                    Console.WriteLine(fields[2].ToString() + " " + fields[14].ToString());
+                    Console.WriteLine(fields[2].ToString() + " " + fields[15].ToString());
 
-                    string url_photo = fields[14].ToString();
+                    string url_photo = fields[15].ToString();
 
                     if (url_photo.Contains("."))
                     {
